@@ -36,7 +36,7 @@ But I also take some time to more stuff like:
 
 
 ## Wanna talk? 🍃📭
-![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=Send%20a%20message&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FjustGobbi)
+[dm me on twitter](https://twitter.com/justGobbi)
 
 or email me llcostagobbi@gmail.com
 
