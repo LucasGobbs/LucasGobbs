@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm Lucas!, a brazillian programmer, working at [Olá Wolff](https://www.olawolff.com/) as a backend developer.
+I'm Lucas!, a brazillian programmer, working at [EquipeNet](https://equipenet.com.br/) as a frontend developer.
 
 ## Interests! ✌
 I'm usually doing applications with Rust, C, Nodejs or Flutter.
