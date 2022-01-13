@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm Lucas!, a brazillian programmer, working at [Gerpos](https://br.linkedin.com/company/gerpos-sistemas) as a frontend developer.
+I'm Lucas!, a brazillian programmer, working at [Linkapi](https://www.linkapi.solutions/) as a backend developer.
 
 ## Interests! ✌
 I'm usually doing applications with Rust, C, Nodejs or Flutter.
