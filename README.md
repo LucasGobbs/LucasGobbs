@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm Lucas!, a brazillian programmer, working at [Linkapi](https://www.linkapi.solutions/) as a backend developer.
+I'm Lucas!, a brazillian programmer, working at [Semantix](https://www.semantix.ai/) as a backend developer.
 
 ## Interests! ✌
 I'm usually doing applications with Rust, C, Nodejs or Flutter.
