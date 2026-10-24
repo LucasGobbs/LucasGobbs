@@ -28,11 +28,17 @@ I enjoy learning by building things, especially projects that combine theory wit
 
 Some of the things I work on in my spare time:
 
-- CPU-based ray tracers and rendering algorithms.
-- Graphics experiments with OpenGL, Vulkan, and shaders.
-- Small tools, libraries, and developer utilities written in Odin, Rust, and C/C++.
-- Programming language experiments, domain-specific languages, and simulations.
-- Minimal applications focused on performance, simplicity, and understanding the underlying technology.
+- A CPU ray tracer in Odin ([toy_raytracer_odin](https://github.com/LucasGobbs/toy_raytracer_odin)) with BVH acceleration, PBR materials, and an interactive editor UI.
+
+![raytracer](assets/raytracer.gif)
+
+- trogue, a graphics-agnostic terminal-look UI API in Rust ([trogue](https://github.com/LucasGobbs/trogue)): buffers of glyphs, shapes and components, rendered by pluggable backends.
+
+![trogue](assets/trogue.gif)
+
+- A voxel engine prototype in three.js ([cube-engine](https://github.com/LucasGobbs/cube-engine)): chunked simplex-noise terrain, face-culled meshes, baked ambient occlusion, and a fly camera.
+
+![voxel engine](assets/voxel_engine.gif)
 
 I particularly enjoy projects where I can explore the entire stack, from algorithms and data structures to memory management, rendering, and user interfaces.
 
